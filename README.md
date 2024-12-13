@@ -1,0 +1,1 @@
+Very Simple Neural Network For Machine Learning Two Inputs One Output Problems. Using Logical XOR In The Example.
