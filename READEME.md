@@ -1,0 +1,1 @@
+Very Simple Neural Network For Solving Two Inputs One Output. 
